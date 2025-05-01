@@ -39,7 +39,7 @@
     <div class="container">
         <div class="jumbotron">
             <h1 class="display-4">Selamat Datang!</h1>
-            <p class="lead">Ini adalah halaman utama aplikasi Sistem Indormasi Mahasiswa.</p>
+            <p class="lead">Ini adalah halaman utama aplikasi Sistem Informasi Mahasiswa.</p>
             <hr class="my-4">
             <p>Silakan pilih menu di bawah ini untuk mengelola data yang sesuai.</p>
         </div>
